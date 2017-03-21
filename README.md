@@ -8,6 +8,8 @@ In Step 1, we will:
    * Add this as an `INSTALLED_APP` in `settings.py`
    * Add a `views.py` to handle requests
    * Update `urls.py` to point to our `views.py` for default requests
+2. Check that our JSON 'Hello World' checks out!
+   * `python manage.py runserver`
 
 Some commentary here - Django makes a big deal about the difference between apps & projects that I'm just glazing over completely here. For my needs, I haven't had to care a lot about the difference. So I just hack this project into also being an app. <3
 
