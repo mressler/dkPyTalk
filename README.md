@@ -9,3 +9,5 @@ In Step 0, we will:
    * `pip install django matplotlib numpy`
 3. Build the scaffolding for the django project
    * `django-admin startproject internetOfSwings .`
+4. Test that everything checks out
+   * `python manage.py runserver`
