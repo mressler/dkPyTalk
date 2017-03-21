@@ -18,4 +18,5 @@ from internetOfSwings import views
 
 urlpatterns = [
     url(r'^$', views.index, name="index"),
+    url(r'swings/(?P<swing_uuid>[a-fA-F0-9\-]+)/plot', views.plot_swing, name="plot_swing"),
 ]
