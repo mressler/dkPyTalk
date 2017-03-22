@@ -11,7 +11,7 @@ In Step 1, we will:
 2. Check that our JSON 'Hello World' checks out!
    * `python manage.py runserver`
 
-Some commentary here - Django makes a big deal about the difference between apps & projects that I'm just glazing over completely here. For my needs, I haven't had to care a lot about the difference. So I just hack this project into also being an app. <3
+Some commentary here - Django makes a big deal about the difference between _apps_ & _projects_ that I'm just glazing over completely here. For my needs, I haven't had to care a lot about the difference. So I just hack this _project_ into also being an _app_. <3
 
 ## Compare a previous step to this step
 * [Step 0](https://github.com/mressler/dkPyTalk/compare/step-0...step-1)
