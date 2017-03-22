@@ -5,8 +5,6 @@ The Internet of Swings for Code &amp; Supply on March 22nd
 In Step 2, we will:
 1. Start adding some model objects
    * Users and Swings are a good start
-   * Be sure to run `python manage.py makemigrations internetOfSwings`
-   * Diamond Kinetics' installation does not rely on migrations
    * [This Django reference is great for creating Model objects](https://docs.djangoproject.com/en/1.10/ref/models/)
 2. Lament that we have a nice model, but no data!
 
